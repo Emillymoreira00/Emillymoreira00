@@ -1,16 +1,73 @@
-## Hi there 👋
+# Olá! Eu sou a Emilly 👋💜
 
-<!--
-**Emillymoreira00/Emillymoreira00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na São Judas.
 
-Here are some ideas to get you started:
+💻 Tenho interesse em **Tecnologia, Desenvolvimento de Software e Banco de Dados**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Estou construindo minha carreira na área de TI por meio de estudos, projetos acadêmicos e projetos pessoais.
+
+---
+
+## 🛠️ Tecnologias e conhecimentos
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-8B5CF6?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-A78BFA?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-6D28D9?style=for-the-badge&logo=javascript&logoColor=white"/>
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+- ☕ Programação em Java
+- 🗄️ Banco de Dados e SQL
+- 🌐 Desenvolvimento Web
+- 🧠 Lógica de Programação
+- 🔧 Git e GitHub
+- 🚀 Desenvolvimento de projetos para portfólio
+
+---
+
+## 👩🏻‍💻 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória na área de Tecnologia.
+
+Gosto de aprender coisas novas, colocar meus conhecimentos em prática e transformar o que estudo em projetos.
+
+Meu objetivo é conquistar uma oportunidade na área de TI, continuar desenvolvendo minhas habilidades e crescer profissionalmente na área de Tecnologia.
+
+---
+
+## 🚀 Projetos em destaque
+
+🔹 **Site Conexão**  
+Projeto web desenvolvido com HTML e CSS.
+
+🔹 **Folha de Pagamento**  
+Projeto acadêmico desenvolvido em Java.
+
+🔹 **Novos projetos em desenvolvimento**  
+Em breve, novos projetos estarão disponíveis por aqui! 💜
+
+---
+
+## 🎓 Formação
+
+**Análise e Desenvolvimento de Sistemas — São Judas**
+
+---
+
+## 📫 Vamos nos conectar?
+
+💼 [LinkedIn](https://www.linkedin.com/in/emillymoreiradealmeida/)
+
+📧 **emillymoreiradalmeida@gmail.com**
+
+---
+
+<p align="center">
+  💜 Obrigada por visitar meu perfil!
+</p>
