@@ -43,7 +43,7 @@ Meu objetivo é conquistar uma oportunidade na área de TI, continuar desenvolve
 
 ## 🚀 Projetos em destaque
 
-🔹 **Site Conexão**  
+🔹 **Site Conexa Celular**  
 Projeto web desenvolvido com HTML e CSS.
 
 🔹 **Novos projetos em desenvolvimento**  
