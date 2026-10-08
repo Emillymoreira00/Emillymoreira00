@@ -46,9 +46,6 @@ Meu objetivo é conquistar uma oportunidade na área de TI, continuar desenvolve
 🔹 **Site Conexão**  
 Projeto web desenvolvido com HTML e CSS.
 
-🔹 **Folha de Pagamento**  
-Projeto acadêmico desenvolvido em Java.
-
 🔹 **Novos projetos em desenvolvimento**  
 Em breve, novos projetos estarão disponíveis por aqui! 💜
 
